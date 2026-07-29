@@ -1,6 +1,6 @@
 # Привет, я Кирилл 👋
 Junior Android-разработчик из Иваново.  
-Люблю Kotlin, Jetpack Compose и превращать идеи в работающие приложения.
+Люблю Kotlin, Jetpack Compose и превращать идеи в работающие приложения.  
 Создаю лаконичные приложения с продуманной архитектурой.
 
 
@@ -31,6 +31,11 @@ Junior Android-разработчик из Иваново.
 ## 📫 Связаться со мной
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kerikir)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlasov-kerik@mail.ru)
+
+
+## 📊 Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerikir&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerikir&layout=compact&theme=tokyonight)
 
 
 <!--
