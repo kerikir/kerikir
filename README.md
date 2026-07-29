@@ -25,8 +25,9 @@ Junior Android-разработчик из Иваново.
 ### Новости
 Новостное приложение с автоматическим уведомлением.  
 **Стек:** Kotlin, Jetpack Compose, MVVM, Retrofit, Coroutines, Room, WorkManager, Clean Architecture, DataStore, Flow, Hilt  
-[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=for-the-badge&logo=github)](https://github.com/kerikir/NewsStepik)
-
+[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=for-the-badge&logo=github)](https://github.com/kerikir/NewsStepik)  
+<img src="demo/news.gif" width="200" alt="Демо" />  
+  
 ### Заметки
 Приложение для заметок с возможностью добавления изображений.  
 **Стек:** Kotlin, Jetpack Compose, Room, Hilt, Coroutines, Flow, Coil, Clean Architecture, MVVM  
