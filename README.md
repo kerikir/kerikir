@@ -21,6 +21,17 @@ Junior Android-разработчик из Иваново.
 [![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=for-the-badge&logo=github)](https://github.com/kerikir/NewsStepik)
 
 
+## 📚 Образование
+- **Современная Android-разработка** — курс от Андрей Сумин (Stepik)
+- **Kotlin: полный курс** — курс от Андрей Сумин (Stepik)
+- **Android-разработка** - курс от T-Банка
+- **Алгоритмы и структуры данных** - интенсив от Яндекс
+
+
+## 📫 Связаться со мной
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kerikir)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlasov-kerik@mail.ru)
+
 
 <!--
 **kerikir/kerikir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
