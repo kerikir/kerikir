@@ -20,12 +20,28 @@ Junior Android-разработчик из Иваново.
 **Стек:** Kotlin, Jetpack Compose, MVVM, Retrofit, Coroutines, Room, WorkManager, Clean Architecture, DataStore, Flow, Hilt  
 [![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=for-the-badge&logo=github)](https://github.com/kerikir/NewsStepik)
 
+### Заметки
+Приложение для заметок с возможностью добавления изображений.  
+**Стек:** Kotlin, Jetpack Compose, Room, Hilt, Coroutines, Flow, Coil, Clean Architecture, MVVM  
+[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=for-the-badge&logo=github)](https://github.com/kerikir/NotepadStepik)
+
+### Лесной помощник
+Мессенджер для работы без доступа к сети с возможностью ориентироваться на местности.  
+**Стек:** Java, XML, Yandex MapKit, Socket, Thread, JUnit  
+[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=for-the-badge&logo=github)](https://github.com/kerikir/ForrestHelper)
+
+### Магазин обуви
+Приложение онлайн-магазина кроссовок.  
+**Стек:** Kotlin, XML, Firebase, MVVM, LiveData, Glide  
+[![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=for-the-badge&logo=github)](https://github.com/kerikir/NotepadStepik)
+
 
 ## 📚 Образование
 - **Современная Android-разработка** — курс от Андрей Сумин (Stepik)
 - **Kotlin: полный курс** — курс от Андрей Сумин (Stepik)
 - **Android-разработка** - курс от T-Банка
 - **Алгоритмы и структуры данных** - интенсив от Яндекс
+- **Магистр кафедры Программное Обеспечение Компьютерных Систем** - ИГЭУ (с отличием)
 
 
 ## 📫 Связаться со мной
