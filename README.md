@@ -35,4 +35,4 @@ Junior Android-разработчик из Иваново.
 
 ## 📊 Статистика
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kerikir&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=kerikir&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_green)
-![Top Langs](https://github-readme-extended.vercel.app/api/top-langs/?username=kerikir&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kerikir&langs_count=3&theme=shadow_green)](https://github-stats-extended.vercel.app/api/top-langs?username=kerikir&langs_count=3&theme=shadow_green)
