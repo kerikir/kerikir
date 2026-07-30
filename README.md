@@ -38,6 +38,8 @@ Junior Android-разработчик из Иваново.
 Мессенджер для работы без доступа к сети с возможностью ориентироваться на местности.  
 **Стек:** Java, XML, Yandex MapKit, Socket, Thread, JUnit  
 [![GitHub](https://img.shields.io/badge/Репозиторий-181717?style=for-the-badge&logo=github)](https://github.com/kerikir/ForrestHelper)  
+<img src="demo/search_users.gif" width="200" alt="Демо" />
+<img src="demo/calling.gif" width="250" alt="Демо" />  
 
 ### Заметки
 Приложение для заметок с возможностью добавления изображений.  
