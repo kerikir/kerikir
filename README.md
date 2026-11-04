@@ -3,6 +3,11 @@ Junior Android-разработчик из Иваново.
 Люблю Kotlin, Jetpack Compose и превращать идеи в работающие приложения.  
 Создаю лаконичные приложения с продуманной архитектурой.
 
+## 📄 Документы
+
+- 📑 **Резюме:** [Скачать PDF](documents/Kirill_Vlasov_CV.pdf)
+- 📁 **Портфолио:** [Посмотреть Портфолио (PDF)](documents/Kirill_Vlasov_Portfolio.pdf)
+- 💼 **hh.ru:** [Посмотреть резюме](https://ivanovo.hh.ru/resume/3af95c5fff0f30ad4f0039ed1f306246694e30)
 
 ## 🛠 Мой стек
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -18,12 +23,6 @@ Junior Android-разработчик из Иваново.
 ![Hilt](https://img.shields.io/badge/Hilt-FF5722?style=for-the-badge&logo=dagger&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📄 Документы
-
-- 📑 **Резюме:** [Скачать PDF](documents/Kirill_Vlasov_CV.pdf)
-- 📁 **Портфолио:** [Посмотреть Портфолио (PDF)](documents/Kirill_Vlasov_Portfolio.pdf)
-- 💼 **hh.ru:** [Посмотреть резюме](https://ivanovo.hh.ru/resume/3af95c5fff0f30ad4f0039ed1f306246694e30)
 
 ## 📱 Мои проекты
 
